@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string>
 #include<vector>
-#include<vld.h>
 using namespace std;
 
 struct Node
